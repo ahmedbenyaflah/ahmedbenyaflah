@@ -1,46 +1,73 @@
-# 💫 About Me
-### **Computer Science Student | Big Data Specialist**
-
+# <p align="center">✨ AHMED BEN YAFLAH ✨</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Big+Data+%26+AI;Computer+Science+Student;Building+Intelligent+Systems;FastAPI+%7C+Spark+%7C+Machine+Learning" />
-</p>
-
-I am currently a **final-year Computer Science student** specializing in **Big Data and Data Analysis**.  
-who is passionate about bridging large-scale data processing with **Artificial Intelligence**
-
-
-## 💻 Technical AI & Data Stack
-
-### **Languages & Core**
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" height="80" />
-</div>
-
-### **AI, Data & Cloud**
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="80" height="80" />
-</div>
-
-### **Web Frameworks**
-<div align="center" style="display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" height="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="80" height="80" />
-</div>
-
-
-### ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Big+Data+Specialist;Data+Scientist+Enthusiast;Building+AI+Systems+with+Gemini+API" />
 </p>
 
 ---
 
-![snake gif](https://github.com/eltouj/eltouj/blob/output/github-contribution-grid-snake-dark.svg)
+## 🚀 About Me
+I am a **Computer Science Student** at **Université ISAMM | [cite_start]Manouba** [cite: 53][cite_start], specializing in **Big Data and Data Analysis**[cite: 1]. [cite_start]I am passionate about bridging large-scale data processing with **Artificial Intelligence** [cite: 2] [cite_start]and currently pursuing a career as a **Data Scientist**[cite: 8].
+
+* [cite_start]🎓 **Education:** Bachelor of Science in Computer Science (2023-2026) [cite: 53]
+* [cite_start]📍 **Location:** Tunisia, Ben Arous [cite: 12]
+* [cite_start]💡 **Interests:** Data Mining, Machine Learning, and Interactive Web Apps [cite: 8, 47]
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 💻 Programming & Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 📊 Big Data & AI Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-FFFF00?style=for-the-badge&logo=apachehadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 FasarliAI** | [cite_start]Interactive study space that transforms PDFs into quizzes and flashcards using RAG. [cite: 47] | [cite_start]React, Supabase, Groq [cite: 45, 47] |
+| **💬 ChatX-App** | [cite_start]Real-time messaging Android app with Gemini AI chatbot integration. [cite: 41, 43] | [cite_start]Java, Gemini API, Firebase [cite: 41] |
+| **📈 Netflix Analysis** | In-depth analysis and visualization of Netflix series and movie data. | [cite_start]Python, Jupyter Notebook [cite: 28] |
+| **🚗 CarShop** | [cite_start]Full CRUD desktop application for car rental management using OOP concepts. [cite: 34, 38] | [cite_start]Java, MySQL [cite: 35] |
+
+---
+
+## 📊 GitHub Pulse
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbenyaflah&show_icons=true&theme=tokyonight&border_radius=10" alt="Ahmed's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbenyaflah&layout=compact&theme=tokyonight&border_radius=10" alt="Ahmed's Languages" />
+</p>
+
+### 🐍 Contribution Journey
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg" alt="Snake" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ahmedbenyaflah42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedbenyaflah&label=Profile%20Views&color=blue&style=flat" />
+</p>
