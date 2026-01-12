@@ -6,11 +6,11 @@
 ---
 
 ## 🚀 About Me
-I am a **Computer Science Student** at **Université ISAMM | Manouba** [cite: 53], specializing in **Big Data and Data Analysis**[cite: 1]. I am passionate about bridging large-scale data processing with **Artificial Intelligence** [cite: 2] and currently pursuing a career as a **Data Scientist**[cite: 8].
+I am a **Computer Science Student** at **Université ISAMM | Manouba** , specializing in **Big Data and Data Analysis**. I am passionate about bridging large-scale data processing with **Artificial Intelligence**  and currently pursuing a career as a **Data Scientist**.
 
-* 🎓 **Education:** Bachelor of Science in Computer Science (2023-2026) [cite: 53]
-* 📍 **Location:** Tunisia, Ben Arous [cite: 12]
-* 💡 **Interests:** Data Mining, Machine Learning, and Interactive Web Apps [cite: 8, 47]
+* 🎓 **Education:** Bachelor of Science in Computer Science (2023-2026) 
+* 📍 **Location:** Tunisia, Ben Arous 
+* 💡 **Interests:** Data Mining, Machine Learning, and Interactive Web Apps 
 
 ---
 
@@ -41,10 +41,10 @@ I am a **Computer Science Student** at **Université ISAMM | Manouba** [cite: 53
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 FasarliAI** | Interactive study space that transforms PDFs into quizzes and flashcards using RAG. [cite: 47] | React, Supabase, Groq [cite: 45, 47] |
-| **💬 ChatX-App** | Real-time messaging Android app with Gemini AI chatbot integration. [cite: 41, 43] | Java, Gemini API, Firebase [cite: 41] |
-| **📈 Netflix Analysis** | In-depth analysis and visualization of Netflix series and movie data. | Python, Jupyter Notebook [cite: 28] |
-| **🚗 CarShop** | Full CRUD desktop application for car rental management using OOP concepts. [cite: 34, 38] | Java, MySQL [cite: 35] |
+| **🤖 FasarliAI** | Interactive study space that transforms PDFs into quizzes and flashcards using RAG. [cite: 47] | React, Supabase, Groq  |
+| **💬 ChatX-App** | Real-time messaging Android app with Gemini AI chatbot integration.  | Java, Gemini API, Firebase  |
+| **📈 Netflix Analysis** | In-depth analysis and visualization of Netflix series and movie data. | Python, Jupyter Notebook  |
+| **🚗 CarShop** | Full CRUD desktop application for car rental management using OOP concepts.  | Java, MySQL  |
 
 ---
 
