@@ -48,24 +48,14 @@ I am a **Computer Science Student** at **Université ISAMM | Manouba** , special
 
 ---
 
-## 📊 GitHub Pulse
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbenyaflah&show_icons=true&theme=tokyonight&border_radius=10" alt="Ahmed's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbenyaflah&layout=compact&theme=tokyonight&border_radius=10" alt="Ahmed's Languages" />
-</p>
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
 
----
 
 ## 📫 Connect with Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmed-ben-yaflah-185811297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:ahmedbenyaflah42@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="YOUR_CODEFORCES_URL"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Sneakyyy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 <p align="center">
