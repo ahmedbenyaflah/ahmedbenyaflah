@@ -41,7 +41,7 @@ I am a **Computer Science Student** at **Université ISAMM | Manouba** , special
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 FasarliAI** | Interactive study space that transforms PDFs into quizzes and flashcards using RAG. [cite: 47] | React, Supabase, Groq  |
+| **🤖 FasarliAI** | Interactive study space that transforms PDFs into quizzes and flashcards using RAG.  | React, Supabase, Groq  |
 | **💬 ChatX-App** | Real-time messaging Android app with Gemini AI chatbot integration.  | Java, Gemini API, Firebase  |
 | **📈 Netflix Analysis** | In-depth analysis and visualization of Netflix series and movie data. | Python, Jupyter Notebook  |
 | **🚗 CarShop** | Full CRUD desktop application for car rental management using OOP concepts.  | Java, MySQL  |
